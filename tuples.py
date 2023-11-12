@@ -1,0 +1,13 @@
+x = ("omar", "hasan" ,"ali")
+print(x[2])
+y= (1,5,7)
+print(y)
+print(max(y))
+for x in y:
+    print(x)
+(a , b) = (5 , 7)
+print("a = ",a)
+print("b",b)
+(r , k) = (9 ,3)
+print("r=",r)
+print("k=",k)
